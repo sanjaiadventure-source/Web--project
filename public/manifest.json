@@ -1,0 +1,19 @@
+{
+  "short_name": "LuxeHaven",
+  "name": "LuxeHaven Luxury Hotel Booking",
+  "description": "Ultra-Luxury Hotel Room Booking Web Application with instant reservation & offline catalog.",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "type": "image/svg+xml",
+      "sizes": "192x192 512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#0b0f17",
+  "theme_color": "#fbbf24",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "categories": ["travel", "hospitality", "lifestyle"]
+}
